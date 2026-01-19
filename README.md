@@ -36,22 +36,6 @@ Notebook, with supporting logic modularized into separate Python scripts.
 
 ---
 
-## Project Structure
-research-paper-summarizer-nlp/
-├── notebooks/
-│   └── research_paper_summarizer.ipynb
-├── preprocessing/
-│   └── text_preprocessing.py
-├── summarization/
-│   ├── extractive.py
-│   ├── t5_abstractive.py
-│   └── bart_abstractive.py
-├── evaluation/
-│   └── rouge_eval.py
-├── requirements.txt
-
----
-
 ## Implementation Note
 The primary experimentation and execution are done in the Jupyter notebook
 located in the notebooks directory.
