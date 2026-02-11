@@ -103,12 +103,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📧 Contact
+## Author & Contact
 
-**Bhavya Keerthi** 
-For questions or suggestions, please open an issue on GitHub.
+**Bhavya Keerthi**  
+BTech CSE 
 
-
+For questions, suggestions, or potential collaborations, please open an issue on GitHub. ✨
 
 ---
 
@@ -116,4 +116,4 @@ For questions or suggestions, please open an issue on GitHub.
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [NLTK](https://www.nltk.org/)
 - [Gradio](https://gradio.app/)
-- [All the contributors and readers who find this useful!](https://github.com/bhavyakeerthi3/research-paper-summarizer-nlp)
+- [All the readers and researchers who find this useful!](https://github.com/bhavyakeerthi3/research-paper-summarizer-nlp)
